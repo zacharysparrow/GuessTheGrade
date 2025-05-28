@@ -1,5 +1,5 @@
 # GuessTheGrade
-*Public repository hidden at the request of Aurora Climbing Inc.*
+*Update: public repository hidden at the request of Aurora Climbing Inc.*
 
 Check out my <a href="zacharysparrow.github.io/projects/guess_the_grade">blog post</a>!
 
