@@ -5,7 +5,7 @@ Check out my <a href="zacharysparrow.github.io/projects/guess_the_grade">blog po
 
 <div align="center">
   <a href="https://github.com/zacharysparrow/GuessTheGrade/">
-    <img src="assets/climb_10_attention_weights.png" alt="TB Attention Weights" height="800">
+    <img src="climb_transformer.png" alt="TB Attention Weights" height="400">
   </a>
 </div>
 
